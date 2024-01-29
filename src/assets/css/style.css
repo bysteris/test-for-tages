@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+
+}
+.srUi {
+    font-family: '../fonts/SFUIText-Regular.ttf', arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+.srUi500 {
+    font-family: '../fonts/SFUIText-Semibold.ttf', arial, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.srUi600 {
+    font-family: '../fonts/SFUIText-Semibold.ttf', arial, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.srUi800 {
+    font-family: '../fonts/SFUIText-Bold.ttf', arial, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.u700i {
+    font-family: 'UbuntuBoldItalic', arial, sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+.mt-32{
+    margin-top: 32px;
+}
+
+.section-products {
+    padding: 80px 0 54px;
+}
